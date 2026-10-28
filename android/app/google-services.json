@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276592305586",
+    "project_id": "indris-app",
+    "storage_bucket": "indris-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276592305586:android:63c1b1c3bd7864d4b8f0ab",
+        "android_client_info": {
+          "package_name": "com.example.application1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn3dpAFcIh6qibo2InQbAmghnPBM1cP20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
